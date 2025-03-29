@@ -4,10 +4,10 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es: Ezequiel 
+- Mi nombre es: Ezequiel Ismael
 - Vivo en Castelar
 
 
 ### Otra Información
 - Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Tengo un perro que se llama Bonzo. 
